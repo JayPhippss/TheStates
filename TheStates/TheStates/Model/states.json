@@ -1,0 +1,405 @@
+{
+    "status": "ok",
+    "states": [
+		   {
+		   "classification": "alabama",
+		   "title" : "Alabama",
+           "flag" : "alabamaFlag",
+		   "capital" : "Montgomery",
+		   "population" : "4,858,979",
+           "description" : "Alabama, which joined the union as the 22nd state in 1819, is located in the southern United States and nicknamed the “Heart of Dixie.” The region that became Alabama was occupied by American Indians as early as some 10,000 years ago. Europeans reached the area in the 16th century. During the first half of the 19th century, cotton and slave labor were central to Alabama’s economy. The state played a key role in the American Civil War; its capital, Montgomery, was the Confederacy’s first capital."   
+		   },
+		   {
+		   "classification": "alaska",
+		   "title" : "Alaska",
+		   "capital" : "Juneau",
+		   "population" : "738,432",
+           "description" : "The largest state (in area) of the United States, Alaska was admitted to the union as the 49th state in 1959, and lies at the extreme northwest of the North American continent. Acquired by the United States in 1867, the territory was dubbed “Seward’s Folly” after U.S. Secretary of State William Seward, who arranged to purchase the land from Russia. Critics of the purchase believed that the land had nothing to offer, but the discovery of gold in the 1890s created a stampede of prospectors and settlers.",
+           "flag" : "alaskaFlag"
+		   },
+        {
+		   "classification": "arizona",
+		   "title" : "Arizona",
+		   "capital" : "Phoenix",
+		   "population" : "6,828,065",
+           "description" : "Arizona, the Grand Canyon state, achieved statehood on February 14, 1912, the last of the 48 coterminous United States to be admitted to the union. Originally part of New Mexico, the land was ceded to the United States in 1848, and became a separate territory in 1863. Copper was discovered in 1854, and copper mining was Arizona’s premier industry until the 1950s. After World War II, the widespread availability of refrigeration and air conditioning caused Arizona’s population to boom and Phoenix to become one of the fastest growing cities in America. ",
+           "flag" : "arizonaFlag"
+		   },
+        {
+		   "classification": "arkansas",
+		   "title" : "Arkansas",
+		   "capital" : "Little Rock",
+		   "population" : "2,978,204",
+           "description" : "Part of the land acquired in the Louisiana Purchase, Arkansas became a separate territory in 1819 and achieved statehood in 1836. A slave state, Arkansas became the ninth state to secede from the union and join the Confederate States of America. Today Arkansas ranks 27th among the 50 states in area, but, except for Louisiana and Hawaii, it is the smallest state west of the Mississippi River.",
+           "flag" : "arkansasFlag"
+		   },
+        {
+		   "classification": "california",
+		   "title" : "California",
+		   "capital" : "Sacramento",
+		   "population" : "39,144,818",
+           "description" : "The first Spanish missionaries arrived in California in the 1700s, but California didn’t become a U.S. territory until 1847, as part of the treaty ending the Mexican-American War. Shortly thereafter, the discovery of gold at Sutter’s Mill in 1848 inspired a wave of settlers to head to the west coast in search of fortune. In 1850 California became the 31st state, and is now the third largest state behind Alaska and Texas. With millions of acres of farmland, California leads the U.S. in agricultural production.",
+           "flag" : "californiaFlag"
+		   },
+        {
+		   "classification": "colorado",
+		   "title" : "Colorado",
+		   "capital" : "Denver",
+		   "population" : "5,456,574",
+           "description" : "Colorado, which joined the union as the 38th state in 1876, is America’s eighth largest state in terms of land mass. Located in the Rocky Mountain region of the western United States, the state’s abundant and varied natural resources attracted the ancient Pueblo peoples and, later, the Plains Indians. First explored by Europeans in the late 1500s (the Spanish referred to the region as “Colorado” for its red-colored earth), the area was ceded to the United States in 1848 with the Treaty of Guadalupe Hidalgo that ended the Mexican-American War (1846-48).",
+           "flag" : "coloradoFlag"
+		   },
+        {
+		   "classification": "connecticut",
+		   "title" : "Connecticut",
+		   "capital" : "Hartford",
+		   "population" : "3,590,886",
+           "description" : "One of the original 13 colonies and one of the six New England states, Connecticut is located in the northeastern corner of the country. Initially an agricultural community, by the mid-19th century textile and machine manufacturing had become the dominant industries. The home of Eli Whitney and Samuel Colt, Connecticut was a leading manufacturer of guns and other arms. Today Connecticut lies in the midst of the great urban-industrial complex along the Atlantic coast, bordering Massachusetts to the north, Rhode Island to the east, Long Island Sound to the south and New York to the west.",
+           "flag" : "connecticutFlag"
+		   },
+        {
+		   "classification": "delaware",
+		   "title" : "Delaware",
+		   "capital" : "Dover",
+		   "population" : "945,934",
+           "description" : "The first of the original 13 states to ratify the federal Constitution, Delaware occupies a small niche in the Boston–Washington, D.C., urban corridor along the Middle Atlantic seaboard. It is the second smallest state in the country and one of the most densely populated. The state is organized into three counties—from north to south, New Castle, Kent and Sussex—all established by 1682. Its population, like its industry, is concentrated in the north, around Wilmington, where the major coastal highways and railways pass through from Pennsylvania and New Jersey on the north and east into Maryland on the south and west.",
+           "flag" : "delawareFlag"
+		   },
+        {
+		   "classification": "florida",
+		   "title" : "Florida",
+		   "capital" : "Tallahassee",
+		   "population" : "20,271,272",
+           "description" : "Florida, which joined the union as the 27th state in 1845, is nicknamed the Sunshine State and known for its balmy climate and natural beauty. Spanish explorer Juan Ponce de Leon, who led the first European expedition to Florida in 1513, named the state in tribute to Spain’s Easter celebration known as “Pascua Florida,” or Feast of Flowers. During the first half of the 1800s, U.S. troops waged war with the region’s Native American population. During the Civil War, Florida was the third state to secede from the Union. Beginning in the late 19th century, residents of Northern states flocked to Florida to escape harsh winters.",
+           "flag" : "floridaFlag"
+		   },
+        {
+		   "classification": "georgia",
+		   "title" : "Georgia",
+		   "capital" : "Atlanta",
+		   "population" : "10,214,860",
+           "description" : "The largest of the U.S. states east of the Mississippi River and the youngest of the 13 former English colonies, Georgia was founded in 1732, at which time its boundaries were even larger—including much of the present-day states of Alabama and Mississippi. By the mid-19th century, Georgia had the greatest number of plantations of any state in the South, and in many respects epitomized plantation culture and economic dependence on slavery. In 1864, Union General William Tecumseh Sherman invaded Georgia, captured Atlanta and began his infamous March to the Sea,cutting a 200-mile-wide swath of fire and destruction reaching all the way to Savannah.",
+           "flag" : "georgiaFlag"
+		   },
+        {
+		   "classification": "hawaii",
+		   "title" : "Hawaii",
+		   "capital" : "Honolulu",
+		   "population" : "1,431,603",
+           "description" : "Hawaii is a group of volcanic islands in the central Pacific Ocean. The islands lie 2,397 miles from San Francisco, California, to the east and 5,293 miles from Manila, in the Philippines, to the west. The capital is Honolulu, located on the island of Oahu. The islands were annexed by the United States in 1900, and as a U.S. territory saw population expansion and the establishment of a plantation system for growing sugar cane and pineapples. On the morning of December 7, 1941, hundreds of Japanese fighter planes attacked the American naval base at Pearl Harbor near Honolulu. The surprise attack destroyed nearly 20 vessels, killed more than 2,000 American soldiers and propelled the United States into World War II.",
+           "flag" : "hawaiiFlag"
+		   },
+        {
+		   "classification": "idaho",
+		   "title" : "Idaho",
+		   "capital" : "Boise",
+		   "population" : "1,654,930",
+           "description" : "Bordered by the Canadian province of British Columbia to the north and the U.S. states of Montana and Wyoming to the east, Utah and Nevada to the south, and Oregon and Washington to the west, Idaho is twice as large as the six New England states combined. With an abundance of scenic mountains, lakes, rivers and outdoor attractions, the state draws more than 20 million tourists eachyear. Idaho produces more potatoes and trout than any other state in the nation, and is known as the “Gem State” for the 72 types of precious and semi-precious stones it produces—some of which are exclusive to the state.",
+           "flag" : "idahoFlag"
+		   },
+        {
+		   "classification": "illinois",
+		   "title" : "Illinois",
+		   "capital" : "Springfield",
+		   "population" : "12,859,995",
+           "description" : "The first Europeans to visit Illinois were the French explorers Louis Jolliet and Jacques Marquette in 1673, but the region was ceded to Britain after the French and Indian War. After the American Revolution, Illinois became a territory of the United States, and achieved statehood in 1818. Located on Lake Michigan, and connected to the eastern ports via the Erie Canal, Chicago became a booming metropolis, and even the fire of 1871 could not stunt its growth. In the second half of the 19th century the great need for workers in the mills, rail yards and slaughterhouses made Chicago a popular destination for immigrants and freed blacks. During Prohibition Chicago became synonymous with bootleg liquor and gangsters like Al Capone.",
+           "flag" : "illinoisFlag"
+		   },
+        {
+		   "classification": "indiana",
+		   "title" : "Indiana",
+		   "capital" : "Indianapolis",
+		   "population" : "6,619,680",
+           "description" : "Indiana sits, as its motto claims, at “the crossroads of America.” It borders Lake Michigan and the state of Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west, making it an integral part of the American Midwest. Except for Hawaii, Indiana is the smallest state west of the Appalachian Mountains. After the American Revolution the lands of Indiana were open to U.S. settlers. The influx of white immigrants brought increased war with the Native American tribes. The conflicts continued until the 1811 Battle of Tippecanoe, which was won by General, and future president, William Henry Harrison.",
+           "flag" : "indianaFlag"
+		   },
+        {
+		   "classification": "iowa",
+		   "title" : "Iowa",
+		   "capital" : "Des Moines",
+		   "population" : "3,123,899",
+           "description" : "Iowa was admitted to the union as the 29th state on Dec. 28, 1846. As a Midwestern state, Iowa forms a bridge between the forests of the east and the grasslands of the high prairie plains to the west. Its gently rolling landscape rises slowly as it extends westward from the Mississippi River, which forms its entire eastern border. The Missouri River and its tributary, the Big Sioux, form the western border, making Iowa the only U.S. state that has two parallel rivers defining its borders.",
+           "flag" : "iowaFlag"
+		   },
+        {
+		   "classification": "kansas",
+		   "title" : "Kansas",
+		   "capital" : "Topeka",
+		   "population" : "2,911,641",
+           "description" : "Kansas, situated on the American Great Plains, became the 34th state on January 29, 1861. Its path to statehood was long and bloody: After the Kansas-Nebraska Act of 1854 opened the two territories to settlement and allowed the new settlers to determine whether the states would be admitted to the union as “free” or”slave,” North and South competed to send the most settlers into the region. This quickly led to violence,and the territory became known as “Bleeding Kansas.” Kansas has long been known as part of America’s agricultural heartland, and is home to the major U.S. military installation Fort Leavenworth. In 1954, it became a battleground of the civil rights movement when the landmark Brown v. Board of Education of Topeka case was decided in the Supreme Court, ending the doctrine of “separate but equal” in public schools.",
+           "flag" : "kansasFlag"
+		   },
+        {
+		   "classification": "kentucky",
+		   "title" : "Kentucky",
+		   "capital" : "Frankfort",
+		   "population" : "4,425,092",
+           "description" : "Kentucky was granted statehood in 1792, becomingthe first U.S. state west of the Appalachian Mountains. Frontiersman Daniel Boone was one of Kentucky’s most prominent explorers and many immigrants followed the trail he blazed through the Cumberland Gap, known as the Wilderness Road. Although it sided with the Confederacy during the Civil War, the population was deeply divided, and many Kentucky residents fought for the North. Known primarily as an agricultural area into the 20th century, Kentucky is also a major U.S. coal producer andsite of the U.S.military bases Fort Knox and Fort Campbell. It is also known as the home of the legendary Kentucky Derby horse race.",
+           "flag" : "kentuckyFlag"
+		   },
+        {
+		   "classification": "louisiana",
+		   "title" : "Louisiana",
+		   "capital" : "Baton Rouge",
+		   "population" : "4,670,724",
+           "description" : "Louisiana sits above the Gulf of Mexico at the mouth of the Mississippi River, bordered by Arkansas to the north, Mississippi to the east and Texas to the west. Originally colonized by the French during the 18th century, it became U.S. territory as part of the historic Louisiana Purchase in 1803, and was admitted to the union in 1812. Louisiana’s capital city is Baton Rouge. It is also home to the historic port city New Orleans, which is famous for its unique cuisine, jazz and spectacular Mardi Gras festival.",
+           "flag" : "louisianaFlag"
+		   },
+        {
+		   "classification": "maine",
+		   "title" : "Maine",
+		   "capital" : "Augusta",
+		   "population" : "1,329,328",
+           "description" : "Maine, the largest of the six New England states, lies at the northeastern corner of the country. Maine became the 23rd state on March 15, 1820, as part of the Missouri Compromise, which allowed Missouri to enter the union as a slave state and Maine as a free state. Maine is boundedby the Canadian provinces of Quebec and New Brunswick, and by New Hampshire. Maine is famous for its rocky coastline, and is the leading U.S. producer of lobsters and blueberries.",
+           "flag" : "maineFlag"
+		   },
+        {
+		   "classification": "maryland",
+		   "title" : "Maryland",
+		   "capital" : "Annapolis",
+		   "population" : "6,006,401",
+           "description" : "One of the original 13 colonies, Maryland lies at the center of the Eastern Seaboard, amid the great commercial and population complex that stretches from Maine to Virginia. Its small size belies the great diversity of its landscapes and ways of life that they foster, from the low-lying and water-oriented Eastern Shore and Chesapeake Bay area, through the metropolitan Baltimore, its largest city, to the forested Appalachian foothills and mountains of its western reaches. Annapolis, the state capital, is also home to the United States Naval Academy. Maryland is the leading producer of blue crabs and is renowned for its crab cakes.",
+           "flag" : "marylandFlag"
+		   },
+        {
+		   "classification": "massachusetts",
+		   "title" : "Massachusetts",
+		   "capital" : "Boston",
+		   "population" : "6,794,422",
+           "description" : "One of the original 13 colonies and one of the six New England states, Massachusetts (officially called a commonwealth) is known for being the landing place of the Mayflower and the Pilgrims. English explorer and colonist John Smith named the state for the Massachuset tribe. Boston, the state capital, was a hotbed of activity, including the Boston Massacre and the Boston Tea Party, during the American Revolution. In addition to its revolutionary spirit, the state is known for sparking the American Industrial Revolution with the growth of textile mills in Lowell, and for its large Irish-American population.",
+           "flag" : "massachusettsFlag"
+		   },
+        {
+		   "classification": "michigan",
+		   "title" : "Michigan",
+		   "capital" : "Lansing",
+		   "population" : "9,922,576",
+           "description" : "Michigan, the Wolverine State, joined the union in 1837. Located in the center of the Great Lakes, Michigan is divided into two land masses known as the Upper and Lower Peninsulas. The Mackinac Bridge, which connects Michigan’s upper peninsula to the rest of the state, spans five miles and is one of the world’s longest suspension bridges. Detroit, the state’s largest city, is the home of the American auto industry and is the birthplace of Motown Records.",
+           "flag" : "michigan"
+		   },
+        {
+		   "classification": "minnesota",
+		   "title" : "Minnesota",
+		   "capital" : "St. Paul",
+		   "population" : "5,489,594",
+           "description" : "Minnesota became the 32nd state of the union on May 11, 1858. A small extension of the northern boundary makes it the most northerly of the 48 conterminous U.S. states. Minnesota is bounded by the Canadian provinces of Manitoba and Ontario to the north, by Lake Superior and Wisconsin to the east, by Iowa to the south and South Dakota and North Dakota to the west. Minnesota is the home of the Mall of America, which holds more than 400 stores and attracts nearly 40 million people a year.",
+           "flag" : "minnesotaFlag"
+		   },
+        {
+		   "classification": "mississippi",
+		   "title" : "Mississippi",
+		   "capital" : "Jackson",
+		   "population" : "2,992,333",
+           "description" : "Mississippi joined the Union as the 20th state in 1817 and gets its name from the Mississippi River, which forms its western border. Early inhabitants of the area that became Mississippi included the Choctaw, Natchez and Chickasaw. Spanish explorers arrived in the region in 1540 but it was the French who established the first permanent settlement in present-day Mississippi in 1699. During the first half of the 19th century, Mississippi was the top cotton producer in the United States, and owners of large plantations depended on the labor of black slaves. Mississippi seceded from the Union in 1861 and suffered greatly during the American Civil War. Despite the abolition of slavery, racial discrimination endured in Mississippi, and the state was a battleground of the Civil Rights Movement in the mid-20th century.",
+           "flag" : "mississippiFlag"
+		   },
+        {
+		   "classification": "missouri",
+		   "title" : "Missouri",
+		   "capital" : "Jefferson City",
+		   "population" : "6,083,672",
+           "description" : "Missouri, the Show Me State, was admitted to the United States in 1821 as part of the Missouri Compromise. Located on the Mississippi and Missouri Rivers, the state was an important hub of transportation and commerce in early America, and the Gateway Arch in St. Louis is a monument to Missouri’s role as the “Gateway to the West.” St. Louis, Missouri, is home to the Anheuser-Busch, the maker of Budweiser beer, and boasts the largest beer-producing plant in the country.",
+           "flag" : "missouriFlag"
+		   },
+        {
+		   "classification": "montana",
+		   "title" : "Montana",
+		   "capital" : "Helena",
+		   "population" : "1,032,949",
+           "description" : "Montana is the fourth largest U.S. state by area, behind Alaska, Texas and California, but with an average of just six people per square mile, it is one of the country’s least densely populated states. Although the name Montana is derived from the Spanish montaña (“mountain” or “mountainous region”), it has an average elevation of only 3,400 feet, the lowest among the Rocky Mountain states. Montana is home to the Little Bighorn Battlefield National Monument, which memorializes the historic 1876 battle between the Sioux tribe and U.S. Army, often referred to as Custer’s Last Stand.",
+           "flag" : "montanaFlag"
+		   },
+        {
+		   "classification": "nebraska",
+		   "title" : "Nebraska",
+		   "capital" : "Lincoln",
+		   "population" : "1,896,190",
+           "description" : "Nebraska, which was admitted to the union as the 37th state on March 1, 1867, two years after the end of the American Civil War, contains some of the nation’s best ranchland and farmland. Prior to its statehood, the Nebraska Territory had been sparsely settled but saw growth during the California Gold Rush in 1848, with a larger wave of settlers arriving as homesteaders in the 1860s. Although the territorial capital of Nebraska was Omaha, when it achieved statehood the seat of government was moved to Lancaster, which was later renamed Lincoln after President Abraham Lincoln, who had recently been assassinated.",
+           "flag" : "nebraskaFlag"
+		   },
+        {
+		   "classification": "nevada",
+		   "title" : "Nevada",
+		   "capital" : "Carson City",
+		   "population" : "2,890,845",
+           "description" : "Nevada is the seventh largest of the 50 states, but is one of the most sparsely populated. Carson City, in the western part of the state, is the capital. Gambling is legal in Nevada, and Las Vegas, the state’s largest city, is known internationally for its opulent casinos and as an entertainment destination. Nevada is also home to the Hoover Dam, which wasthe single largest public works project in the history of the United States, and Lake Mead, the largest reservoir in the country.",
+           "flag" : "nevadaFlag"
+		   },
+        {
+		   "classification": "newhampshire",
+		   "title" : "New Hampshire",
+		   "capital" : "Concord",
+		   "population" : "1,330,608",
+           "description" : "New Hampshire, one of the original 13 colonies, was the first state to have its own state constitution. Its spirit of independence is epitomized in the state motto–“Live Free or Die.” New Hampshire was the 9th state to ratify the U.S. Constitution–the final state needed to put the document into effect. It plays an important role in national elections, as it is the first state to holdnational primaries, and its primary results are thought to influence those in the rest of the nation, giving rise to the saying “As New Hampshire goes, so goes the nation.” It is the site of the White Mountains and the famed Mount Washington, one of the windiest places in the nation.",
+           "flag" : "newhampshireFlag"
+		   },
+        {
+		   "classification": "newjersey",
+		   "title" : "New Jersey",
+		   "capital" : "Trenton",
+		   "population" : "8,958,013",
+           "description" : "One of the original 13 colonies, New Jersey was an important battleground during the American Revolution. Located in the heart of the bustling Atlantic corridor and nestled between New York and Pennsylvania, New Jersey has the highest population density of any U.S. state. New Jersey was named for the island of Jersey in the English Channel. Its long and beautiful coastline has long made New Jersey a popular vacation destination, with over 50 seaside resort towns including Asbury Park, Atlantic City and Cape May. The state also boasts an impressive musical legacy–Bruce Springsteen, Jon Bon Jovi and Frank Sinatra all hail from New Jersey. ",
+           "flag" : "newjerseyFlag"
+		   },
+        {
+		   "classification": "newmexico",
+		   "title" : "New Mexico",
+		   "capital" : "Santa Fe",
+		   "population" : "2,085,109",
+           "description" : "Colonized by Spain, the land that is now New Mexico became U.S. territory as part oft he Gadsen Purchase in 1853, though New Mexico did not become a U.S. state until 1912. During World War II, New Mexico was the site of the top-secret Manhattan Project, in which top U.S. scientists raced to create the first atomic bomb, which was tested at the Trinity Bomb site, near Alamagordo, on July 16, 1945. In 1947, Roswell, New Mexico, became a topic of speculation about extraterrestrial life when a local farmer discovered unidentified debris on his property, which some believed was the remains of a crashed alien spacecraft. ",
+           "flag" : "newmexicoFlag"
+		   },
+        {
+		   "classification": "newyork",
+		   "title" : "New York",
+		   "capital" : "Albany",
+		   "population" : "19,795,791",
+           "description" : "The Dutch first settled along the Hudson River in 1624; two years later they established the colony of New Amsterdam on Manhattan Island. In 1664, the English took control of the area and renamed it New York. One of the original 13 colonies, New York played a crucial political and strategic role during the American Revolution. Between 1892 and 1954, millions of immigrants arrived in New York Harbor and passed through Ellis Island on their journey to becoming U.S citizens. It is estimated that up to 40 percent of Americans can trace at least one ancestor to that port of entry. New York City, the largest city in the state, is home to the New York Stock Exchange and is a major international economic center.",
+           "flag" : "newyorkFlag"
+		   },
+        {
+		   "classification": "northcarolina",
+		   "title" : "North Carolina",
+		   "capital" : "Raleigh",
+		   "population" : "10,042,802",
+           "description" : "One of the original 13 colonies, North Carolina was the first state to instruct its delegates to vote for independence from the British crown during the Continental Congress. Following the Revolutionary War, North Carolina developed an extensive slave plantation system and became a major exporter of cotton and tobacco, although the slave population remained relatively small compared to that of other southern states. In 1861, North Carolina became one of 11 states to secede from the United States, beginning the American Civil War. Despite no major battles being fought in the state, North Carolina sent more recruits to fight for the Confederacy than any other rebel state. In 1903, the state became the site of the first manned self-propelled airplane flight when the Wright brothers took off from a cliff near Kitty Hawk.",
+           "flag" : "northcarolinaFlag"
+		   },
+        {
+		   "classification": "northdakota",
+		   "title" : "North Dakota",
+		   "capital" : "Bismarck",
+		   "population" : "756,927",
+           "description" : "The land that today makes up North Dakota became U.S.territory as part of the Louisiana Purchaseof 1803.The regionwas originally part of the Minnesota and Nebraska territories, until, along with South Dakota, it was organized into the Dakota Territory in 1861. The state was very sparsely populated until the arrival of the railroads in the late 1800s, andfinally becamea state in 1889. During the run-up to statehood, there was an intense rivalry between North and South Dakota over which state would be admitted to the unionfirst.",
+           "flag" : "northdakotaFlag"
+		   },
+        {
+		   "classification": "ohio",
+		   "title" : "Ohio",
+		   "capital" : "Columbus",
+		   "population" : "11,613,423",
+           "description" : "Initially colonized by French fur traders, Ohio became a British colonial possession following the French and Indian War in 1754. At the end of the American Revolution, Britain ceded control of the territory to the newly formed United States, which incorporated it into the Northwest Territory. Ohio became a state on March 1, 1803, although no formal declaration was madeuntil 1953, when President Dwight Eisenhower officially signed the documents making it a state, retroactive to the original date.Ohio issometimes called the “Mother of Modern Presidents,” having sent seven Ohioans to the White House since 1869. Ohio is also known as the home of the Rock and Roll Hall of Fame in Cleveland, the NationalUnderground RailroadFreedom Centerin Cincinnati and National Football League Hall of Fame in Canton.",
+           "flag" : "ohioFlag"
+		   },
+        {
+		   "classification": "oklahoma",
+		   "title" : "Oklahoma",
+		   "capital" : "Oklahoma City",
+		   "population" : "3,911,338",
+           "description" : "The land that today makes up Oklahoma was added to the United States as part of the Louisiana Purchase of 1803. Throughout the 19th century, the U.S. governmentrelocated Indian tribes from the southeastern United Statesto the area, and by 1900, over 30 Indian tribes had beenmoved to what was originally calledthe Indian Territories. At the same time, ranchers in Texas began to move into the area in search of new pasture lands, and the government eventually opened the land to settlement, creating “land runs” in which settlers were allowed to cross the border at a particular hour to claim homesteads. Settlers who broke the law and crossed the border sooner than allowed were called “sooners,” which eventually became the state’s nickname.",
+           "flag" : "oklahomaFlag"
+		   },
+        {
+		   "classification": "oregon",
+		   "title" : "Oregon",
+		   "capital" : "Salem",
+		   "population" : "4,028,977",
+           "description" : "Following exploration by the Spanish and French, in the 17th and 18th centuries, Oregon was mapped by the Lewis and Clark expedition in their search for the Northwest Passage. Starting in the 1830s, many groups of pioneers travelled to the state on the famous Oregon Trail, and the U.S. began joint settlement of the area with the United Kingdom. In 1846, the border between U.S. and British territory was formally established at the 49th parallel – the part of the territory that was given to Britain would ultimately become part of Canada. Oregon was officially admitted to the union as a state on February 14th, 1859. Today, Portland, Oregon’s largest city, is considered one of the top cities in the nation in terms of quality of life, and the state is also known as one of the nation’s top producers of wine, boasting over 300 wineries.",
+           "flag" : "oregonFlag"
+		   },
+        {
+		   "classification": "pennsylvania",
+		   "title" : "Pennsylvania",
+		   "capital" : "Harrisburg",
+		   "population" : "12,802,503",
+           "description" : "One of the original 13 colonies, Pennsylvania was founded by William Penn as a haven for his fellow Quakers. Pennsylvania’s capital, Philadelphia, was the site of the first and second Continental Congresses in 1774 and 1775, the latter of which produced the Declaration of Independence, sparking the American Revolution. After the war, Pennsylvania became the second state, after Delaware, to ratify the U.S. Constitution. In the American Civil War (1861-1865), Pennsylvania was the site of the Battle of Gettysburg,in whichUnion General George Meade defeated Confederate General Robert E. Lee, bringing an end to the Confederacy’s Northern invasion, as well as Lincoln’s famous Gettysburg Address.",
+           "flag" : "pennsylvaniaFlag"
+		   },
+        {
+		   "classification": "rhodeisland",
+		   "title" : "Rhode Island",
+		   "capital" : "Providence",
+		   "population" : "1,056,298",
+           "description" : "Rhode Island, measuring only about 48 miles long and 37 miles wide, is the smallestof the U.S. states. Despite its small area, Rhode Island, known as the “Ocean State,” boasts over 400 miles of coastline. Rhode Island was founded by Roger Williams in 1636, who had been banished fromthe Massachusetts colony for hisadvocacy ofreligious tolerance and the separation of church and state.During the colonial period, Newport was a major hub for shipping and trade, and in the 19th century Rhode Island was at the forefront of the Industrial Revolution and the establishment of power-driven textile mills.",
+           "flag" : "rhodeislandFlag"
+		   },
+        {
+		   "classification": "southcarolina",
+		   "title" : "South Carolina",
+		   "capital" : "Columbia",
+		   "population" : "4,896,146",
+           "description" : "Settled by the English in 1670, South Carolina became the eighth state to ratify the U.S. constitution in 1788.Itsearly economy was largely agricultural, benefitting from thearea’s fertile soil,andplantation farmersrelied on theslave trade for cheap labor to maximize their profits. By 1730,people of African descent made up two thirds of the colony’spopulation. South Carolinabecame the first state to secede from the union in 1861, and was the site of the first shots of the Civil War–the shellingof the federally heldFort Sumter by Confederate troops on April 12, 1861. ",
+           "flag" : "southcarolinaFlag"
+		   },
+        {
+		   "classification": "southdakota",
+		   "title" : "South Dakota",
+		   "capital" : "Pierre",
+		   "population" : "858,469",
+           "description" : "The territory that would become South Dakota was added to the United States in 1803 as part of the Louisiana Purchase.The first permanent American settlement was established at Fort Pierre by the Lewis and Clark expedition in 1804.White settlement of the territory in the 1800sled to clashes with the Sioux, as some of the land had been granted to the tribe by an earlier treaty. Nevertheless, the territory was incorporated into the union on November 2, 1889, along with North Dakota. Due to a controversy over which state would be admitted to the union first, President Benjamin Harrison shuffled the bills and signed one at random, with the order going unrecorded, though North Dakota is traditionally listed first. Today, a major part of South Dakota’s economy is fueled by tourism–visitors flock to the state to see Mt. Rushmore.",
+           "flag" : "southdakotaFlag"
+		   },
+        {
+		   "classification": "tennessee",
+		   "title" : "Tennessee",
+		   "capital" : "Nashville",
+		   "population" : "6,600,299",
+           "description" : "Tennessee became the 16th state of the union in 1796. It is just 112 miles wide, but stretches 432 miles from the Appalachian Mountains boundary with North Carolina in the east to the Mississippi River borders with Missouri and Arkansas in the west. Tennessee’s two largest cities, Memphis and Nashville, are known as centers of blues and country music, respectively,and have played host tothe likes ofElvis Presley, Jerry Lee Lewis, Muddy Waters, Johnny Cash, B.B. King and Dolly Parton. Memphis is also famous for its barbecue and hosts the well-attended “Memphis in May” barbecue competition each year.",
+           "flag" : "tennesseeFlag"
+		   },
+        {
+		   "classification": "texas",
+		   "title" : "Texas",
+		   "capital" : "Austin",
+		   "population" : "27,469,114",
+           "description" : "Spanish missionaries were the first European settlers in Texas, founding San Antonio in 1718. Hostile natives and isolation from other Spanish colonies kept Texas sparsely populated until following the Revolutionary War and the War of Mexican Independence, when the newly established Mexican government began to allow settlers from the U.S. to claim land there. This led to a population explosion, but dramatically reduced the percentage of the population with Mexican heritage, causing friction with the government in Mexico City.",
+           "flag" : "texasFlag"
+		   },
+        {
+		   "classification": "utah",
+		   "title" : "Utah",
+		   "capital" : "Salt Lake City",
+		   "population" : "2,995,919",
+           "description" : "Mountains, high plateaus and deserts form most of Utah’s landscape. At Four Corners, in the southeast, Utah meets Colorado, New Mexico and Arizona at right angles, the only such meeting of states in the country. Utah became the 45th member of the union on Jan. 4, 1896, with Salt Lake City as its capital. Utah is known for having some of the best skiing in the country, and the mountains near Salt Lake City receive an average of 500 inches of snow per year. During the 19th century many Mormons settled in Utah, and today approximately 60 percent of state’s residents are members of the church.",
+           "flag" : "utahFlag"
+		   },
+        {
+		   "classification": "vermont",
+		   "title" : "Vermont",
+		   "capital" : "Montpelier",
+		   "population" : "626,042",
+           "description" : "Vermont was initially settled in the early 18th century by both the British and French,and conflicts between the two nations continued until the French defeat in the French and Indian War, after which the land was ceded to England. During the American Revolution, Vermont declared independence separately from the original 13 colonies, although the Continental Congress refused to recognize it. Vermont was finally admitted to the union as the 14th state in 1790, after 14 years as an independentrepublic. The name of the state is derived from”montagne verte,” French forgreen mountain, giving rise to the state’s “Green Mountain State” nickname.",
+           "flag" : "vermontFlag"
+		   },
+        {
+		   "classification": "virginia",
+		   "title" : "Virginia",
+		   "capital" : "Richmond",
+		   "population" : "8,382,993",
+           "description" : "One of the 13 original colonies, Virginia was the first part of the country permanently settled by the English, who established Jamestown on the banks of the James River in 1607. The home state of George Washington, Thomas Jefferson and other founding fathers, Virginia played an important role in the American Revolution (1775-83). During the Civil War (1861-65), the city of Richmond, Virginia, became the capital of the Confederacy, and more than half of the conflict’s battles were fought in the state. Today, many government institutions are headquartered in Virginia, particularly in Arlington, located across the Potomac River from Washington, D.C.",
+           "flag" : "virginiaFlag"
+		   },
+        {
+		   "classification": "washington",
+		   "title" : "Washington",
+		   "capital" : "Olympia",
+		   "population" : "7,170,351",
+           "description" : "Granted statehood in 1889, Washingtonwas namedin honor ofGeorge Washington; it is the only U.S. state named after a president. The state’s coastal location and excellent harborshave contributed to its role as a leader in tradewith Alaska, Canada and countries of the Pacific Rim. The majestic Mount Rainier soars above Seattle and is the highest peak in the continental United States. Another Washingtonlandmark, Mount St. Helens erupted in 1980, the deadliest and most economically destructive volcanic event in U.S. history.",
+           "flag" : "washingtonFlag"
+		   },
+        {
+		   "classification": "westvirginia",
+		   "title" : "West Virginia",
+		   "capital" : "Charleston",
+		   "population" : "1,844,128",
+           "description" : "When the state of Virginia voted to secede from the United States during the Civil War (1861-65), the people of the rugged and mountainous western region of the state opposed the decision and organized to form their own state, West Virginia,in support of the Union. Congress granted statehood to West Virginia on June 20, 1863. The West Virginia town of Harpers Ferry was the site of John Brown’s ill-fated 1859 raid on the federal armory there. AlthoughBrown’s plan to arm a largescale slave revolt with weapons from the armory ultimately failed andBrown was hanged, the raiddid succeed in inflaming white Southern fears of slave rebellions and increased the mounting tension betweenNorth and Southprior tothe Civil War.Today, West Virginia is a major coal-producing state, supplying 15 percent of the nation’s coal.",
+           "flag" : "westvirginiaFlag"
+		   },
+        {
+		   "classification": "wisconsin",
+		   "title" : "Wisconsin",
+		   "capital" : "Madison",
+		   "population" : "5,771,337",
+           "description" : "Wisconsin became aU.S. territoryfollowing the American Revolution and soon after began attracting settlers looking for work inits mining, lumber and dairy industries. It was admitted to the union as the 30th state in 1848.In the years leading up to the Civil War,Wisconsin was an important stop on the Underground Railroad, with manyslaves passing through the state on their way to freedom in Canada. Today, Wisconsin leads the nation in dairy production and is known for the quality of its cheddar cheese–residents even sometimesrefer to themselves as “cheeseheads.” ",
+           "flag" : "wisconsinFlag"
+		   },
+        {
+		   "classification": "wyoming",
+		   "title" : "Wyoming",
+		   "capital" : "Cheyenne",
+		   "population" : "586,107",
+           "description" : "Wyoming became the 44th state to join the union in 1890. Wyoming was the first U.S. state to allow women to vote–an achievement that represented oneof the early victoriesof the Americanwomen’s suffrage movement. Today, although it is the 10th largest state by area, Wyoming has the smallest population of all the states, with just over 550,000 residents.The state is home to most of Yellowstone National Park, one of the most popular national parks in the country",
+           "flag" : "wyomingFlag"
+		   }
+		]
+}

@@ -13,6 +13,14 @@
 		7647100D1F2ABFCE0025A9EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7647100B1F2ABFCE0025A9EE /* LaunchScreen.storyboard */; };
 		764710181F2ABFCF0025A9EE /* TheStatesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710171F2ABFCF0025A9EE /* TheStatesTests.swift */; };
 		764710231F2ABFCF0025A9EE /* TheStatesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710221F2ABFCF0025A9EE /* TheStatesUITests.swift */; };
+		764710321F2AE3F30025A9EE /* states.json in Resources */ = {isa = PBXBuildFile; fileRef = 764710311F2AE3F30025A9EE /* states.json */; };
+		764710341F2AE4610025A9EE /* state.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710331F2AE4610025A9EE /* state.swift */; };
+		764710361F2AE7AA0025A9EE /* TheStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710351F2AE7AA0025A9EE /* TheStates.swift */; };
+		764710381F2AE95F0025A9EE /* TheStatesJSONParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710371F2AE95F0025A9EE /* TheStatesJSONParser.swift */; };
+		7647103A1F2AEB4B0025A9EE /* TheStatesJSONLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764710391F2AEB4B0025A9EE /* TheStatesJSONLoader.swift */; };
+		7647103C1F2AEDA80025A9EE /* StatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7647103B1F2AEDA80025A9EE /* StatesViewController.swift */; };
+		7647103E1F2AEDCD0025A9EE /* StatesDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7647103D1F2AEDCD0025A9EE /* StatesDetailViewController.swift */; };
+		764710401F2AF3850025A9EE /* StateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7647103F1F2AF3850025A9EE /* StateTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +53,14 @@
 		7647101E1F2ABFCF0025A9EE /* TheStatesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheStatesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		764710221F2ABFCF0025A9EE /* TheStatesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheStatesUITests.swift; sourceTree = "<group>"; };
 		764710241F2ABFCF0025A9EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		764710311F2AE3F30025A9EE /* states.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
+		764710331F2AE4610025A9EE /* state.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = state.swift; sourceTree = "<group>"; };
+		764710351F2AE7AA0025A9EE /* TheStates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheStates.swift; sourceTree = "<group>"; };
+		764710371F2AE95F0025A9EE /* TheStatesJSONParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheStatesJSONParser.swift; sourceTree = "<group>"; };
+		764710391F2AEB4B0025A9EE /* TheStatesJSONLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheStatesJSONLoader.swift; sourceTree = "<group>"; };
+		7647103B1F2AEDA80025A9EE /* StatesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatesViewController.swift; sourceTree = "<group>"; };
+		7647103D1F2AEDCD0025A9EE /* StatesDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatesDetailViewController.swift; sourceTree = "<group>"; };
+		7647103F1F2AF3850025A9EE /* StateTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,11 +111,15 @@
 		764710011F2ABFCE0025A9EE /* TheStates */ = {
 			isa = PBXGroup;
 			children = (
+				764710301F2AE38C0025A9EE /* Model */,
 				764710021F2ABFCE0025A9EE /* AppDelegate.swift */,
 				764710061F2ABFCE0025A9EE /* Main.storyboard */,
 				764710091F2ABFCE0025A9EE /* Assets.xcassets */,
 				7647100B1F2ABFCE0025A9EE /* LaunchScreen.storyboard */,
 				7647100E1F2ABFCE0025A9EE /* Info.plist */,
+				7647103B1F2AEDA80025A9EE /* StatesViewController.swift */,
+				7647103D1F2AEDCD0025A9EE /* StatesDetailViewController.swift */,
+				7647103F1F2AF3850025A9EE /* StateTableViewCell.swift */,
 			);
 			path = TheStates;
 			sourceTree = "<group>";
@@ -120,6 +140,18 @@
 				764710241F2ABFCF0025A9EE /* Info.plist */,
 			);
 			path = TheStatesUITests;
+			sourceTree = "<group>";
+		};
+		764710301F2AE38C0025A9EE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				764710311F2AE3F30025A9EE /* states.json */,
+				764710331F2AE4610025A9EE /* state.swift */,
+				764710351F2AE7AA0025A9EE /* TheStates.swift */,
+				764710371F2AE95F0025A9EE /* TheStatesJSONParser.swift */,
+				764710391F2AEB4B0025A9EE /* TheStatesJSONLoader.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +267,7 @@
 				7647100D1F2ABFCE0025A9EE /* LaunchScreen.storyboard in Resources */,
 				7647100A1F2ABFCE0025A9EE /* Assets.xcassets in Resources */,
 				764710081F2ABFCE0025A9EE /* Main.storyboard in Resources */,
+				764710321F2AE3F30025A9EE /* states.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +292,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764710381F2AE95F0025A9EE /* TheStatesJSONParser.swift in Sources */,
+				7647103E1F2AEDCD0025A9EE /* StatesDetailViewController.swift in Sources */,
 				764710031F2ABFCE0025A9EE /* AppDelegate.swift in Sources */,
+				764710341F2AE4610025A9EE /* state.swift in Sources */,
+				7647103A1F2AEB4B0025A9EE /* TheStatesJSONLoader.swift in Sources */,
+				7647103C1F2AEDA80025A9EE /* StatesViewController.swift in Sources */,
+				764710361F2AE7AA0025A9EE /* TheStates.swift in Sources */,
+				764710401F2AF3850025A9EE /* StateTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
