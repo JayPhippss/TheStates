@@ -144,7 +144,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Population" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xDU-0P-U5f">
-                                <rect key="frame" x="26" y="324" width="323" height="20"/>
+                                <rect key="frame" x="16" y="324" width="323" height="20"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -163,7 +163,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Population:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mda-Qz-toa">
-                                <rect key="frame" x="26" y="301" width="323" height="21"/>
+                                <rect key="frame" x="16" y="301" width="323" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -174,7 +174,7 @@
                             <constraint firstAttribute="trailingMargin" secondItem="7pp-OS-loz" secondAttribute="trailing" constant="10" id="2XK-7s-V4z"/>
                             <constraint firstAttribute="trailing" secondItem="16I-7a-VEE" secondAttribute="trailing" constant="10" id="8OA-ia-PT7"/>
                             <constraint firstItem="FJe-iN-wLq" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leading" id="8tq-34-zds"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="xDU-0P-U5f" secondAttribute="trailing" constant="10" id="Azo-e8-Hn2"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="xDU-0P-U5f" secondAttribute="trailing" constant="20" id="Azo-e8-Hn2"/>
                             <constraint firstItem="7pp-OS-loz" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="10" id="DRw-Yf-XQW"/>
                             <constraint firstItem="LvI-fT-ma5" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="52" id="Ew7-Fy-q3x"/>
                             <constraint firstItem="EwD-Tr-bXZ" firstAttribute="top" secondItem="16I-7a-VEE" secondAttribute="bottom" constant="5" id="Gqr-qZ-Q8F"/>
@@ -182,7 +182,7 @@
                             <constraint firstAttribute="trailing" secondItem="FJe-iN-wLq" secondAttribute="trailing" id="J9T-TT-7ZZ"/>
                             <constraint firstAttribute="trailingMargin" secondItem="VNO-sQ-Aau" secondAttribute="trailing" constant="10" id="Mae-WE-qqR"/>
                             <constraint firstItem="VNO-sQ-Aau" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="10" id="PGx-px-zHH"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="Mda-Qz-toa" secondAttribute="trailing" constant="10" id="Pad-dB-tCd"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Mda-Qz-toa" secondAttribute="trailing" constant="20" id="Pad-dB-tCd"/>
                             <constraint firstAttribute="trailing" secondItem="Efn-KB-0oh" secondAttribute="trailing" id="Pp0-rX-9s7"/>
                             <constraint firstItem="Efn-KB-0oh" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leading" id="TsD-3G-tfp"/>
                             <constraint firstItem="16I-7a-VEE" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leading" constant="10" id="gGm-CH-nhA"/>
@@ -199,9 +199,9 @@
                             <constraint firstItem="G7R-NX-eBj" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="10" id="sua-2R-YCi"/>
                             <constraint firstItem="xDU-0P-U5f" firstAttribute="top" secondItem="Mda-Qz-toa" secondAttribute="bottom" constant="2" id="tpn-Mv-9Sg"/>
                             <constraint firstItem="Efn-KB-0oh" firstAttribute="top" secondItem="bz2-Ud-ESG" secondAttribute="bottom" id="uJH-pE-0Mt"/>
-                            <constraint firstItem="xDU-0P-U5f" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="10" id="wdi-ah-ff1"/>
+                            <constraint firstItem="xDU-0P-U5f" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" id="wdi-ah-ff1"/>
                             <constraint firstItem="EwD-Tr-bXZ" firstAttribute="top" secondItem="FJe-iN-wLq" secondAttribute="bottom" id="xxv-9I-04M"/>
-                            <constraint firstItem="Mda-Qz-toa" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" constant="10" id="ykm-2K-xUr"/>
+                            <constraint firstItem="Mda-Qz-toa" firstAttribute="leading" secondItem="fGQ-CZ-AUq" secondAttribute="leadingMargin" id="ykm-2K-xUr"/>
                             <constraint firstItem="G7R-NX-eBj" firstAttribute="top" secondItem="VNO-sQ-Aau" secondAttribute="bottom" constant="2" id="zei-Fj-Amd"/>
                         </constraints>
                     </view>
