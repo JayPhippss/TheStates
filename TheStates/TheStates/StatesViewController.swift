@@ -13,13 +13,29 @@ class StatesViewController: UIViewController, UITableViewDelegate, UITableViewDa
     @IBOutlet weak var statesTableView: UITableView!
     
     let theStates = TheStatesJSONLoader.load(fileName: "states")
+
+   // var searchController: UISearchController!
+    //var resultsController = UITableViewController()
+   // var filteredStates = [String]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        /*
+        self.searchController = UISearchController(searchResultsController: self.resultsController)
+        self.statesTableView.tableHeaderView = self.searchController.searchBar
+        self.searchController.searchResultsUpdater = self
+        */
         self.title = "States"
     }
+    /*
+    func updateSearchResults(for searchController: UISearchController) {
+        self.filteredStates = self.states.filter { (state: String) -> Bool in
+            return true
+        }
+        }
+    */
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
